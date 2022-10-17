@@ -16,7 +16,7 @@ Interested in game development, XR, and vocal-synthesizing projects.
 
 <p align="center">
 <a href="https://github.com/printto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=printto&layout=compact"></a>
-<a href="https://holopin.io/@printto"><img src="https://holopin.me/printto" height="165"></a>
+<a href="https://holopin.io/@printto"><img src="https://holopin.me/printto"></a>
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printto&layout=compact)](https://github.com/printto)
