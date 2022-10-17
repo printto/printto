@@ -1,16 +1,27 @@
-### Hi there 👋
+# About Me
 
-<!--
-**printto/printto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialized in Unity3D.
 
-Here are some ideas to get you started:
+Interested in game development, XR, and vocal-synthesizing projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Work Showcase Website](https://printto.github.io/)
+- [Hobby Website](https://www.printmov.com/)
+
+# Contact Me
+
+[<img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/LinkedIN.png" width="52" />](https://th.linkedin.com/in/pappim-pipatkasrira-a4477b1b1)
+[<img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Twitter.png" width="52" />](https://twitter.com/printmov)
+[<img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Youtube.png" width="52" />](https://www.youtube.com/printto1)
+<!-- [<img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Black/Instagram_black.png" width="52" />](https://www.instagram.com/printmov/) -->
+
+# GitHub Profile
+
+<p align="center">
+<a href="https://github.com/printto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=printto&layout=compact"></a>
+<a href="https://holopin.io/@printto"><img src="https://holopin.me/printto" height="165"></a>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printto&layout=compact)](https://github.com/printto)
+[<img src="https://holopin.me/printto" width="512">](https://holopin.io/@printto) -->
+
+<!-- [![@printto's Holopin board](https://holopin.me/printto)](https://holopin.io/@printto) -->
