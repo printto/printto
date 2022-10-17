@@ -11,11 +11,13 @@ Interested in game development, XR, and vocal-synthesizing projects.
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Twitter.png" width="52" />](https://twitter.com/printmov)
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Youtube.png" width="52" />](https://www.youtube.com/printto1)
 <!-- [<img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Black/Instagram_black.png" width="52" />](https://www.instagram.com/printmov/) -->
+<br/>
 
 # Iroiro
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/printto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=printto&layout=compact"></a>
+<br/><br/>
 <a href="https://holopin.io/@printto"><img src="https://holopin.me/printto"></a>
 </p>
 
